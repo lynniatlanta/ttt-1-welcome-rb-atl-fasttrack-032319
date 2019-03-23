@@ -1,4 +1,4 @@
-# Welcome Message for Tic Tac Toe
+run # Welcome Message for Tic Tac Toe
 
 ## Overview
 
